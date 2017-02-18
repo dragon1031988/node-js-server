@@ -1,2 +1,2 @@
-# node-js-server
-Build Node Server
+// install nodemon
+//install apollo Server
